@@ -32,7 +32,7 @@
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/sahar-mohamed-48296a329">
 <img src="https://img.shields.io/badge/SAHAR_MOHAMED-0A66C2?style=for-the-badge"/>
@@ -65,10 +65,3 @@
 
 ---
 
-<div align="center">
-
-### ⚡ Always Learning & Building
-
-Frontend Development • React.js • JavaScript • TypeScript
-
-</div>
