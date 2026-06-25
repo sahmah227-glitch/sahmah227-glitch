@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-042d5a15-6f9f-4f63-8b3a-fc5c9aa9b4d4.gif" width="70%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750678-f6af7b29-1f4f-4c4f-9f7f-2e7a5a7d0b1d.gif" width="80%"/>
 
 # Hi 👋, I'm Sahar Mohamed
 
@@ -8,19 +8,36 @@
 
 Passionate about building modern, responsive, and user-friendly web applications.
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=sahmah227-glitch&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-* 💻 Frontend Developer specializing in React.js
-* 🌱 Currently learning Advanced React & TypeScript
-* 🎯 Passionate about creating responsive and accessible web applications
-* 🤝 Open to internships, freelance work, and collaboration opportunities
-* ⚡ Always learning new technologies and best practices
+<table>
+<tr>
+<td width="60%">
+
+* 💻 Frontend Developer specializing in **React.js**
+* 🌱 Currently learning **TypeScript** & **Advanced React**
+* 🎯 Passionate about creating responsive and modern web applications
+* 🤝 Open to internships and freelance opportunities
+* 🚀 Always improving my problem-solving and development skills
+* 📍 Egypt
+
+</td>
+
+<td width="40%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -28,23 +45,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode&perline=8" />
 
 </div>
-
----
-
-```javascript
-const sahar = {
-  role: "Frontend Developer",
-  location: "Egypt",
-  code: ["HTML", "CSS", "JavaScript", "React"],
-  backend: ["Node.js", "Express.js"],
-  database: ["MongoDB", "MySQL"],
-  tools: ["Git", "GitHub", "Postman", "Figma"],
-  currentlyLearning: ["TypeScript", "Advanced React"]
-};
-```
 
 ---
 
@@ -56,7 +59,7 @@ AI-powered platform for livestock health monitoring, disease detection, and farm
 
 ### 🛒 E-Commerce Platform
 
-Responsive online shopping platform with authentication, shopping cart, and product management features.
+Responsive online shopping platform with authentication, shopping cart functionality, and product management.
 
 ---
 
@@ -64,9 +67,9 @@ Responsive online shopping platform with authentication, shopping cart, and prod
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahmah227-glitch&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahmah227-glitch&show_icons=true&theme=tokyonight" width="48%"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmah227-glitch&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmah227-glitch&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
 
@@ -80,7 +83,7 @@ Responsive online shopping platform with authentication, shopping cart, and prod
 
 ---
 
-## 📬 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
@@ -100,12 +103,3 @@ Responsive online shopping platform with authentication, shopping cart, and prod
 
 ---
 
-<div align="center">
-
-### 💡 Quote
-
-*"First, solve the problem. Then, write the code."*
-
-⭐ Thanks for visiting my profile!
-
-</div>
