@@ -14,7 +14,7 @@
 * 🌱 Currently learning TypeScript and Advanced React concepts.
 * 🤝 Open to collaboration and exciting opportunities.
 
----
+
 
 # 🛠 Tech Stack
 
@@ -24,11 +24,10 @@
 
 </p>
 
----
 
 ![](https://komarev.com/ghpvc/?username=sahmah227-glitch\&style=for-the-badge\&label=PROFILE+VIEWS)
 
----
+
 
 # 📫 Connect With Me
 
@@ -47,7 +46,7 @@
 </a>
 
 </p>
----
+
 
 # 📊 GitHub Stats
 
@@ -63,5 +62,5 @@
 
 </div>
 
----
+
 
