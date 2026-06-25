@@ -1,52 +1,36 @@
-<h1 align="center">Hi 👋, I'm Sahar Mohamed</h1>
+<div align="center">
 
-<h3 align="center">Frontend Developer | React Developer</h3>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50%"/>
 
-<p align="center">
-Passionate about building modern, responsive, and user-friendly web applications using React.js and modern web technologies.
-</p>
+# Hi 👋 I'm Sahar Mohamed
+
+### Frontend Developer | React Developer
+
+Passionate about building modern, responsive, and user-friendly web applications.
+
+<br>
+
+![](https://komarev.com/ghpvc/?username=sahmah227-glitch\&style=flat\&color=blue\&label=PROFILE+VIEWS)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Frontend Developer passionate about creating modern web experiences.
-* 💻 Specialized in React.js and JavaScript development.
-* 🌱 Currently expanding my skills in Full Stack Development.
-* 🔧 Experienced in building responsive and interactive web applications.
-* 🤝 Open to collaboration on innovative projects.
-* 📚 Always learning new technologies and best practices.
+* 💻 Frontend Developer specialized in React.js
+* 🌱 Currently learning advanced frontend development concepts
+* 🎯 Interested in building modern and responsive web applications
+* 🤝 Open to collaboration on exciting projects
+* ⚡ Passionate about clean code and great user experiences
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-* React.js
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Databases
-
-* MongoDB
-* MySQL
-
-### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Figma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,postman" />
+</p>
 
 ---
 
@@ -54,24 +38,27 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ### 🐄 LivestockCare AI
 
-An AI-powered platform designed to help farmers monitor livestock health, detect diseases, and receive intelligent recommendations through a modern and user-friendly web application.
-
-**Technologies:** React.js, Node.js, Express.js, MongoDB
+AI-powered platform that helps farmers monitor livestock health, detect diseases, and receive intelligent recommendations.
 
 ### 🛒 E-Commerce Platform
 
-A complete online shopping platform featuring product browsing, authentication, shopping cart functionality, and a responsive user experience.
-
-**Technologies:** React.js, JavaScript, Node.js, Express.js, MongoDB
+Modern e-commerce application with authentication, product management, shopping cart, and responsive design.
 
 ---
 
-## 🌱 Currently Learning
+## 📊 GitHub Stats
 
-* Advanced React Patterns
-* TypeScript
-* Backend Architecture
-* Performance Optimization
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sahmah227-glitch&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmah227-glitch&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sahmah227-glitch&theme=tokyonight" />
+</p>
 
 ---
 
@@ -85,6 +72,10 @@ A complete online shopping platform featuring product browsing, authentication, 
 
 <div align="center">
 
-⭐ Always learning, building, and growing as a developer.
+### 💡 Quote
+
+"Code is like humor. When you have to explain it, it's bad."
+
+⭐ Thanks for visiting my profile!
 
 </div>
