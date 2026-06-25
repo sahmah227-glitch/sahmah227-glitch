@@ -1,16 +1,14 @@
-<div align="center">
+# <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750678-f6af7b29-1f4f-4c4f-9f7f-2e7a5a7d0b1d.gif" width="80%"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70%" />
 
 # Hi 👋, I'm Sahar Mohamed
 
 ### Frontend Developer | React Developer
 
-Passionate about building modern, responsive, and user-friendly web applications.
+Passionate about building responsive and user-friendly web applications.
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sahmah227-glitch&style=for-the-badge&color=blue&label=PROFILE+VIEWS"/>
+![](https://komarev.com/ghpvc/?username=sahmah227-glitch\&style=for-the-badge\&color=blue\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -18,48 +16,39 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td width="60%">
+* 💻 Frontend Developer specializing in React.js
+* 🌱 Currently learning TypeScript and Advanced React
+* 🚀 Building responsive and interactive web applications
+* 🤝 Open to collaboration and new opportunities
+* ⚡ Passionate about continuous learning and clean code
 
-* 💻 Frontend Developer specializing in **React.js**
-* 🌱 Currently learning **TypeScript** & **Advanced React**
-* 🎯 Passionate about creating responsive and modern web applications
-* 🤝 Open to internships and freelance opportunities
-* 🚀 Always improving my problem-solving and development skills
-* 📍 Egypt
+---
 
-</td>
+## 🌐 Connect With Me
 
-<td width="40%">
+<p align="center">
+<a href="https://github.com/sahmah227-glitch">
+<img src="https://img.shields.io/badge/GitHub-sahmah227--glitch-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<a href="https://www.linkedin.com/in/sahar-mohamed-48296a329">
+<img src="https://img.shields.io/badge/LinkedIn-Sahar%20Mohamed-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-</td>
-</tr>
-</table>
+<a href="mailto:sahmah227@gmail.com">
+<img src="https://img.shields.io/badge/Email-sahmah227@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,mongodb,mysql,git,github,figma,postman,vscode" />
 
-</div>
-
----
-
-## 💼 Featured Projects
-
-### 🐄 LivestockCare AI
-
-AI-powered platform for livestock health monitoring, disease detection, and farmer assistance.
-
-### 🛒 E-Commerce Platform
-
-Responsive online shopping platform with authentication, shopping cart functionality, and product management.
+</p>
 
 ---
 
@@ -67,9 +56,9 @@ Responsive online shopping platform with authentication, shopping cart functiona
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahmah227-glitch&show_icons=true&theme=tokyonight" width="48%"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahmah227-glitch&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmah227-glitch&layout=compact&theme=tokyonight" width="48%"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahmah227-glitch&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -83,23 +72,19 @@ Responsive online shopping platform with authentication, shopping cart functiona
 
 ---
 
-## 📫 Connect With Me
+## 📌 Current Focus
 
-<div align="center">
-
-<a href="https://github.com/sahmah227-glitch">
-<img src="https://img.shields.io/badge/GitHub-sahmah227--glitch-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sahar-mohamed-48296a329">
-<img src="https://img.shields.io/badge/LinkedIn-Sahar%20Mohamed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sahmah227@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sahmah227%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+* ⚛️ React.js Development
+* 🎨 Responsive UI Design
+* 🟨 JavaScript & TypeScript
+* 🌐 Frontend Performance Optimization
 
 ---
 
+<div align="center">
+
+### 💻 Coding Journey
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+</div>
