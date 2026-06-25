@@ -32,7 +32,7 @@
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
 <a href="https://www.linkedin.com/in/sahar-mohamed-48296a329">
 <img src="https://img.shields.io/badge/SAHAR_MOHAMED-0A66C2?style=for-the-badge"/>
